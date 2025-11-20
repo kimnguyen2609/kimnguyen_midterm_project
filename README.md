@@ -20,6 +20,7 @@ kimnguyen_midterm_project/
 │ ├── index.html
 │ └── nginx.conf
 ├──logs/
+│ ├── kimnguyen_access.log
 ├── docker-compose.yml
 └── README.md
 ```
