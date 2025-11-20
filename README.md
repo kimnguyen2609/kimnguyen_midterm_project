@@ -11,6 +11,7 @@ This project demonstrates a multi-container system with:
 
 ## Project Structure
 
+```bash
 kimnguyen_midterm_project/
 ├── backend/
 │ ├── app.py
@@ -20,6 +21,7 @@ kimnguyen_midterm_project/
 │ └── nginx.conf
 ├── docker-compose.yml
 └── README.md
+```
 
 
 ---
