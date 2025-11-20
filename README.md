@@ -41,7 +41,7 @@ kimnguyen_midterm_project/
 1. Clone the repository:
 
 ```bash
-git clone <your-github-repo-url>
+git clone https://github.com/kimnguyen2609/kimnguyen_midterm_project.git
 cd kimnguyen_midterm_project
 ```
 
@@ -141,5 +141,5 @@ Author
 
 Kim Nguyen
 
-GitHub: [Your GitHub Link Here]
+GitHub: https://github.com/kimnguyen2609/kimnguyen_midterm_project
 
