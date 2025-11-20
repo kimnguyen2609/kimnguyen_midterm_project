@@ -19,6 +19,7 @@ kimnguyen_midterm_project/
 ├── frontend/
 │ ├── index.html
 │ └── nginx.conf
+├──logs/
 ├── docker-compose.yml
 └── README.md
 ```
